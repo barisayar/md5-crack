@@ -1,2 +1,2 @@
-# md5-crack
-md5cracker
+# MD5 Cracker
+Md5 cracking using brute force
