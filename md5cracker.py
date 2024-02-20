@@ -4,7 +4,7 @@ import hashlib
 print """
 ###########################
 #         Md5 Cracker     #
-#      www.hubeybi.com    #
+#         Baris Ayar      #
 ###########################
 """
  
